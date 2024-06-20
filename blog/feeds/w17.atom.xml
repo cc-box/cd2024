@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - w12</title><link href="./" rel="alternate"></link><link href="./feeds/w12.atom.xml" rel="self"></link><id>./</id><updated>2024-06-20T23:01:13+08:00</updated><entry><title>week12 足球機器人模擬</title><link href="./2024-Spring-w12-blog-tutorial.html" rel="alternate"></link><published>2024-04-18T20:00:00+08:00</published><updated>2024-06-20T23:01:13+08:00</updated><author><name>41123117</name></author><id>tag:None,2024-04-18:./2024-Spring-w12-blog-tutorial.html</id><summary type="html">&lt;p&gt;任務一:&lt;/p&gt;
-&lt;p&gt;https://nfuedu-my.sharepoint.com/:f:/g/personal/41123111_nfu_edu_tw/EuSo65VZCXdBuBo8r_UuHoQBxcIrVMDLBY2hkap6bZuQ4Q?e=wRDlbp&lt;/p&gt;
-&lt;p&gt;任務二:&lt;/p&gt;
-&lt;p&gt;將分組倉儲設為評分網站子模組 g4 的子模組指令為:&lt;/p&gt;
-&lt;p&gt;git submodule add https://github.com/mdecd2024/2a-midag4 g4&lt;/p&gt;
-&lt;p&gt;任務三:
-https://www.youtube.com/watch?v=5kPKnJGiilk&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;任務一:&lt;/p&gt;
-&lt;p&gt;https://nfuedu-my.sharepoint.com/:f:/g/personal/41123111_nfu_edu_tw/EuSo65VZCXdBuBo8r_UuHoQBxcIrVMDLBY2hkap6bZuQ4Q?e=wRDlbp&lt;/p&gt;
-&lt;p&gt;任務二:&lt;/p&gt;
-&lt;p&gt;將分組倉儲設為評分網站子模組 g4 的子模組指令為:&lt;/p&gt;
-&lt;p&gt;git submodule add https://github.com/mdecd2024/2a-midag4 g4&lt;/p&gt;
-&lt;p&gt;任務三:
-https://www.youtube.com/watch?v=5kPKnJGiilk&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - w17</title><link href="./" rel="alternate"></link><link href="./feeds/w17.atom.xml" rel="self"></link><id>./</id><updated>2024-06-20T22:54:35+08:00</updated><entry><title>week15 期末報告製作</title><link href="./2024-Spring-w17-blog-tutorial.html" rel="alternate"></link><published>2024-04-18T20:00:00+08:00</published><updated>2024-06-20T22:54:35+08:00</updated><author><name>41123117</name></author><id>tag:None,2024-04-18:./2024-Spring-w17-blog-tutorial.html</id><summary type="html">&lt;p&gt;完成w17 work&lt;/p&gt;
+&lt;p&gt;項目一:https://www.youtube.com/watch?v=8EuVoFwTL5E&lt;/p&gt;
+&lt;p&gt;檔案:https://nfuedu-my.sharepoint.com/:f:/g/personal/41123117_nfu_edu_tw/EjL9uWyyZfpOhCPzDiXOFbABEdDCRLt_jrM1o4xuzizx_A?e=I72fl9&lt;/p&gt;
+&lt;p&gt;項目二:https://www.youtube.com/watch?v=bI7IIa5fsoo&lt;/p&gt;
+&lt;p&gt;檔案:https://nfuedu-my.sharepoint.com/:f:/g/personal/41123117_nfu_edu_tw/EneTnLxYyl9FnIroGzfZKxcBl5ISjOqhmHajcfBxuU5Zyg?e=GoJu2Z&lt;/p&gt;
+&lt;p&gt;項目三:https://www.youtube.com/watch?v=pLgddSRGmLk&lt;/p&gt;
+&lt;p&gt;檔案:https://nfuedu-my.sharepoint.com/:f:/g/personal/41123117_nfu_edu_tw/EinyHf4aMSpEmtpTdZPGo4wBsp7YYnZe-et7HREaI1zYRA?e=b7hrET&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;完成w17 work&lt;/p&gt;
+&lt;p&gt;項目一:https://www.youtube.com/watch?v=8EuVoFwTL5E&lt;/p&gt;
+&lt;p&gt;檔案:https://nfuedu-my.sharepoint.com/:f:/g/personal/41123117_nfu_edu_tw/EjL9uWyyZfpOhCPzDiXOFbABEdDCRLt_jrM1o4xuzizx_A?e=I72fl9&lt;/p&gt;
+&lt;p&gt;項目二:https://www.youtube.com/watch?v=bI7IIa5fsoo&lt;/p&gt;
+&lt;p&gt;檔案:https://nfuedu-my.sharepoint.com/:f:/g/personal/41123117_nfu_edu_tw/EneTnLxYyl9FnIroGzfZKxcBl5ISjOqhmHajcfBxuU5Zyg?e=GoJu2Z&lt;/p&gt;
+&lt;p&gt;項目三:https://www.youtube.com/watch?v=pLgddSRGmLk&lt;/p&gt;
+&lt;p&gt;檔案:https://nfuedu-my.sharepoint.com/:f:/g/personal/41123117_nfu_edu_tw/EinyHf4aMSpEmtpTdZPGo4wBsp7YYnZe-et7HREaI1zYRA?e=b7hrET&lt;/p&gt;
 
 
 &lt;h1&gt;內容管理系統&lt;/h1&gt;
@@ -275,4 +275,4 @@ doc["threejsblock"].bind("click", threejsblock.do)
 &lt;div id="brython_div2"&gt;&lt;/div&gt;
 &lt;!-- editor2 結束 --&gt;
 &lt;hr/&gt;&lt;p&gt;
-&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w12"></category><category term="足球機器人模擬"></category></entry></feed>
+&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w17"></category><category term="期末報告製作"></category></entry></feed>

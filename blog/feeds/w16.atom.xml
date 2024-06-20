@@ -1,18 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - w12</title><link href="./" rel="alternate"></link><link href="./feeds/w12.atom.xml" rel="self"></link><id>./</id><updated>2024-06-20T23:01:13+08:00</updated><entry><title>week12 足球機器人模擬</title><link href="./2024-Spring-w12-blog-tutorial.html" rel="alternate"></link><published>2024-04-18T20:00:00+08:00</published><updated>2024-06-20T23:01:13+08:00</updated><author><name>41123117</name></author><id>tag:None,2024-04-18:./2024-Spring-w12-blog-tutorial.html</id><summary type="html">&lt;p&gt;任務一:&lt;/p&gt;
-&lt;p&gt;https://nfuedu-my.sharepoint.com/:f:/g/personal/41123111_nfu_edu_tw/EuSo65VZCXdBuBo8r_UuHoQBxcIrVMDLBY2hkap6bZuQ4Q?e=wRDlbp&lt;/p&gt;
-&lt;p&gt;任務二:&lt;/p&gt;
-&lt;p&gt;將分組倉儲設為評分網站子模組 g4 的子模組指令為:&lt;/p&gt;
-&lt;p&gt;git submodule add https://github.com/mdecd2024/2a-midag4 g4&lt;/p&gt;
-&lt;p&gt;任務三:
-https://www.youtube.com/watch?v=5kPKnJGiilk&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;任務一:&lt;/p&gt;
-&lt;p&gt;https://nfuedu-my.sharepoint.com/:f:/g/personal/41123111_nfu_edu_tw/EuSo65VZCXdBuBo8r_UuHoQBxcIrVMDLBY2hkap6bZuQ4Q?e=wRDlbp&lt;/p&gt;
-&lt;p&gt;任務二:&lt;/p&gt;
-&lt;p&gt;將分組倉儲設為評分網站子模組 g4 的子模組指令為:&lt;/p&gt;
-&lt;p&gt;git submodule add https://github.com/mdecd2024/2a-midag4 g4&lt;/p&gt;
-&lt;p&gt;任務三:
-https://www.youtube.com/watch?v=5kPKnJGiilk&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - w16</title><link href="./" rel="alternate"></link><link href="./feeds/w16.atom.xml" rel="self"></link><id>./</id><updated>2024-06-20T22:51:57+08:00</updated><entry><title>week15 期末報告製作</title><link href="./2024-Spring-w16-blog-tutorial.html" rel="alternate"></link><published>2024-04-18T20:00:00+08:00</published><updated>2024-06-20T22:51:57+08:00</updated><author><name>41123117</name></author><id>tag:None,2024-04-18:./2024-Spring-w16-blog-tutorial.html</id><summary type="html">&lt;p&gt;學員每週編寫網誌內容佔 40%
+每週上課內容摘要與分組報告執行分工及進度整理&lt;/p&gt;
+&lt;p&gt;相關資料收集與閱讀心得&lt;/p&gt;
+&lt;p&gt;分組期中報告佔 20%
+分組期中 pdf 報告與 mp4 簡報影片&lt;/p&gt;
+&lt;p&gt;每組至多 8 人&lt;/p&gt;
+&lt;p&gt;期中報告題目:&lt;/p&gt;
+&lt;p&gt;ODOO PLM 在協同產品設計上的應用 - 以鋼球平衡台機電控制系統設計為例&lt;/p&gt;
+&lt;p&gt;分組期末報告佔 40%
+分組期末 pdf 報告與 mp4 簡報影片&lt;/p&gt;
+&lt;p&gt;期末報告題目: 網際綜合球類競賽機器人協同設計與模擬&lt;/p&gt;
+&lt;p&gt;競技場景中必須納入數位計時器與類比記分機構&lt;/p&gt;
+&lt;p&gt;每場競技時間為 10 分鐘&lt;/p&gt;
+&lt;p&gt;每隊球員機器人依照各組人數平均分為兩隊&lt;/p&gt;
+&lt;p&gt;每位機器人球員必須同時具備踢球、取球與投球機構&lt;/p&gt;
+&lt;p&gt;雙方陣營各有足球門與籃球框各一具&lt;/p&gt;
+&lt;p&gt;球場中由裁判程式於開場時, 在球場正中央落下 10 球&lt;/p&gt;
+&lt;p&gt;將球踢進對方球門者得 1 分, 將球投入對方籃框者得 5 分&lt;/p&gt;
+&lt;p&gt;參考資料:
+球場參考規格:
+競技球: 白色, 直徑 0.1m, 重量 0.5kg
+場地: 長 4m x 寬 2.5m, 外圍以足夠高度之隱形柵欄區隔
+足球門: 長 0.6m, 高 0.3m, 寬 0.1m
+籃板: 長 0.3m, 高 0.3m, 寬 0.1m, 位於足球門上方中央
+籃框: 由籃板向場內距離 0.1m, 內徑 0.2m, 框管直徑 0.02
+球員尺寸範圍: 長寬高各 0.2m, 重量 5kg
+根據上述球場參考尺寸規格建置場景下載:&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;學員每週編寫網誌內容佔 40%
+每週上課內容摘要與分組報告執行分工及進度整理&lt;/p&gt;
+&lt;p&gt;相關資料收集與閱讀心得&lt;/p&gt;
+&lt;p&gt;分組期中報告佔 20%
+分組期中 pdf 報告與 mp4 簡報影片&lt;/p&gt;
+&lt;p&gt;每組至多 8 人&lt;/p&gt;
+&lt;p&gt;期中報告題目:&lt;/p&gt;
+&lt;p&gt;ODOO PLM 在協同產品設計上的應用 - 以鋼球平衡台機電控制系統設計為例&lt;/p&gt;
+&lt;p&gt;分組期末報告佔 40%
+分組期末 pdf 報告與 mp4 簡報影片&lt;/p&gt;
+&lt;p&gt;期末報告題目: 網際綜合球類競賽機器人協同設計與模擬&lt;/p&gt;
+&lt;p&gt;競技場景中必須納入數位計時器與類比記分機構&lt;/p&gt;
+&lt;p&gt;每場競技時間為 10 分鐘&lt;/p&gt;
+&lt;p&gt;每隊球員機器人依照各組人數平均分為兩隊&lt;/p&gt;
+&lt;p&gt;每位機器人球員必須同時具備踢球、取球與投球機構&lt;/p&gt;
+&lt;p&gt;雙方陣營各有足球門與籃球框各一具&lt;/p&gt;
+&lt;p&gt;球場中由裁判程式於開場時, 在球場正中央落下 10 球&lt;/p&gt;
+&lt;p&gt;將球踢進對方球門者得 1 分, 將球投入對方籃框者得 5 分&lt;/p&gt;
+&lt;p&gt;參考資料:
+球場參考規格:
+競技球: 白色, 直徑 0.1m, 重量 0.5kg
+場地: 長 4m x 寬 2.5m, 外圍以足夠高度之隱形柵欄區隔
+足球門: 長 0.6m, 高 0.3m, 寬 0.1m
+籃板: 長 0.3m, 高 0.3m, 寬 0.1m, 位於足球門上方中央
+籃框: 由籃板向場內距離 0.1m, 內徑 0.2m, 框管直徑 0.02
+球員尺寸範圍: 長寬高各 0.2m, 重量 5kg
+根據上述球場參考尺寸規格建置場景下載:&lt;/p&gt;
 
 
 &lt;h1&gt;內容管理系統&lt;/h1&gt;
@@ -275,4 +315,4 @@ doc["threejsblock"].bind("click", threejsblock.do)
 &lt;div id="brython_div2"&gt;&lt;/div&gt;
 &lt;!-- editor2 結束 --&gt;
 &lt;hr/&gt;&lt;p&gt;
-&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w12"></category><category term="足球機器人模擬"></category></entry></feed>
+&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w16"></category><category term="期末報告製作"></category></entry></feed>
