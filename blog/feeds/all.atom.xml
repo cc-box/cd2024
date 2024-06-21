@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-06-20T23:16:08+08:00</updated><entry><title>week17 完成w17 work</title><link href="./2024-Spring-w17-blog-tutorial.html" rel="alternate"></link><published>2024-06-20T20:00:00+08:00</published><updated>2024-06-20T23:16:01+08:00</updated><author><name>41123117</name></author><id>tag:None,2024-06-20:./2024-Spring-w17-blog-tutorial.html</id><summary type="html">&lt;p&gt;完成w17 work&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-06-21T06:58:45+08:00</updated><entry><title>week17 完成w17 work</title><link href="./2024-Spring-w17-41123117-blog-tutorial.html" rel="alternate"></link><published>2024-06-20T20:00:00+08:00</published><updated>2024-06-21T06:58:45+08:00</updated><author><name>41123117</name></author><id>tag:None,2024-06-20:./2024-Spring-w17-41123117-blog-tutorial.html</id><summary type="html">&lt;p&gt;完成w17 work&lt;/p&gt;
 &lt;p&gt;項目一:https://www.youtube.com/watch?v=8EuVoFwTL5E&lt;/p&gt;
 &lt;p&gt;檔案:https://nfuedu-my.sharepoint.com/:f:/g/personal/41123117_nfu_edu_tw/EjL9uWyyZfpOhCPzDiXOFbABEdDCRLt_jrM1o4xuzizx_A?e=I72fl9&lt;/p&gt;
 &lt;p&gt;項目二:https://www.youtube.com/watch?v=bI7IIa5fsoo&lt;/p&gt;
@@ -275,7 +275,7 @@ doc["threejsblock"].bind("click", threejsblock.do)
 &lt;div id="brython_div2"&gt;&lt;/div&gt;
 &lt;!-- editor2 結束 --&gt;
 &lt;hr/&gt;&lt;p&gt;
-&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w17"></category><category term="完成w17 work"></category></entry><entry><title>week16 期末報告製作</title><link href="./2024-Spring-w16-blog-tutorial.html" rel="alternate"></link><published>2024-06-13T20:00:00+08:00</published><updated>2024-06-20T23:16:08+08:00</updated><author><name>41123117</name></author><id>tag:None,2024-06-13:./2024-Spring-w16-blog-tutorial.html</id><summary type="html">&lt;p&gt;學員每週編寫網誌內容佔 40%
+&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w17"></category><category term="完成w17 work"></category></entry><entry><title>week16 期末報告製作</title><link href="./2024-Spring-w16-41123117-blog-tutorial.html" rel="alternate"></link><published>2024-06-13T20:00:00+08:00</published><updated>2024-06-21T06:58:40+08:00</updated><author><name>41123117</name></author><id>tag:None,2024-06-13:./2024-Spring-w16-41123117-blog-tutorial.html</id><summary type="html">&lt;p&gt;學員每週編寫網誌內容佔 40%
 每週上課內容摘要與分組報告執行分工及進度整理&lt;/p&gt;
 &lt;p&gt;相關資料收集與閱讀心得&lt;/p&gt;
 &lt;p&gt;分組期中報告佔 20%
@@ -591,7 +591,7 @@ doc["threejsblock"].bind("click", threejsblock.do)
 &lt;div id="brython_div2"&gt;&lt;/div&gt;
 &lt;!-- editor2 結束 --&gt;
 &lt;hr/&gt;&lt;p&gt;
-&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w16"></category><category term="期末報告製作"></category></entry><entry><title>week15 期末報告製作</title><link href="./2024-Spring-w15-blog-tutorial.html" rel="alternate"></link><published>2024-06-06T20:00:00+08:00</published><updated>2024-06-20T23:15:18+08:00</updated><author><name>41123117</name></author><id>tag:None,2024-06-06:./2024-Spring-w15-blog-tutorial.html</id><summary type="html">&lt;p&gt;學員每週編寫網誌內容佔 40%
+&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w16"></category><category term="期末報告製作"></category></entry><entry><title>week15 期末報告製作</title><link href="./2024-Spring-w15-41123117-blog-tutorial.html" rel="alternate"></link><published>2024-06-06T20:00:00+08:00</published><updated>2024-06-21T06:58:34+08:00</updated><author><name>41123117</name></author><id>tag:None,2024-06-06:./2024-Spring-w15-41123117-blog-tutorial.html</id><summary type="html">&lt;p&gt;學員每週編寫網誌內容佔 40%
 每週上課內容摘要與分組報告執行分工及進度整理&lt;/p&gt;
 &lt;p&gt;相關資料收集與閱讀心得&lt;/p&gt;
 &lt;p&gt;分組期中報告佔 20%
@@ -907,7 +907,7 @@ doc["threejsblock"].bind("click", threejsblock.do)
 &lt;div id="brython_div2"&gt;&lt;/div&gt;
 &lt;!-- editor2 結束 --&gt;
 &lt;hr/&gt;&lt;p&gt;
-&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w15"></category><category term="期末報告製作"></category></entry><entry><title>week14 籃足球場地繪製</title><link href="./2024-Spring-w14-blog-tutorial.html" rel="alternate"></link><published>2024-05-29T20:00:00+08:00</published><updated>2024-06-20T23:15:09+08:00</updated><author><name>41123117</name></author><id>tag:None,2024-05-29:./2024-Spring-w14-blog-tutorial.html</id><summary type="html">&lt;p&gt;網際綜合球類競賽機器人協同設計:https://nfuedu-my.sharepoint.com/:f:/g/personal/41123128_nfu_edu_tw/EmVVUNxlEvBBjDlbrzvWiWwBC7vF_APGRzbBu_nF3PhBTA?e=heSfQS&lt;/p&gt;
+&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w15"></category><category term="期末報告製作"></category></entry><entry><title>week14 籃足球場地繪製</title><link href="./2024-Spring-w14-41123117-blog-tutorial.html" rel="alternate"></link><published>2024-05-29T20:00:00+08:00</published><updated>2024-06-21T06:58:22+08:00</updated><author><name>41123117</name></author><id>tag:None,2024-05-29:./2024-Spring-w14-41123117-blog-tutorial.html</id><summary type="html">&lt;p&gt;網際綜合球類競賽機器人協同設計:https://nfuedu-my.sharepoint.com/:f:/g/personal/41123128_nfu_edu_tw/EmVVUNxlEvBBjDlbrzvWiWwBC7vF_APGRzbBu_nF3PhBTA?e=heSfQS&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;網際綜合球類競賽機器人協同設計:https://nfuedu-my.sharepoint.com/:f:/g/personal/41123128_nfu_edu_tw/EmVVUNxlEvBBjDlbrzvWiWwBC7vF_APGRzbBu_nF3PhBTA?e=heSfQS&lt;/p&gt;
 
 
@@ -1171,7 +1171,7 @@ doc["threejsblock"].bind("click", threejsblock.do)
 &lt;div id="brython_div2"&gt;&lt;/div&gt;
 &lt;!-- editor2 結束 --&gt;
 &lt;hr/&gt;&lt;p&gt;
-&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w14"></category><category term="籃足球場地繪製"></category></entry><entry><title>week13 課程評分標準</title><link href="./2024-Spring-w13-blog-tutorial.html" rel="alternate"></link><published>2024-05-23T20:00:00+08:00</published><updated>2024-06-20T23:14:59+08:00</updated><author><name>41123117</name></author><id>tag:None,2024-05-23:./2024-Spring-w13-blog-tutorial.html</id><summary type="html">&lt;p&gt;學員每週編寫網誌內容佔 40%
+&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w14"></category><category term="籃足球場地繪製"></category></entry><entry><title>week13 課程評分標準</title><link href="./2024-Spring-w13-41123117-blog-tutorial.html" rel="alternate"></link><published>2024-05-23T20:00:00+08:00</published><updated>2024-06-21T06:58:16+08:00</updated><author><name>41123117</name></author><id>tag:None,2024-05-23:./2024-Spring-w13-41123117-blog-tutorial.html</id><summary type="html">&lt;p&gt;學員每週編寫網誌內容佔 40%
 每週上課內容摘要與分組報告執行分工及進度整理&lt;/p&gt;
 &lt;p&gt;相關資料收集與閱讀心得&lt;/p&gt;
 &lt;p&gt;分組期中報告佔 20%
@@ -1487,7 +1487,7 @@ doc["threejsblock"].bind("click", threejsblock.do)
 &lt;div id="brython_div2"&gt;&lt;/div&gt;
 &lt;!-- editor2 結束 --&gt;
 &lt;hr/&gt;&lt;p&gt;
-&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w13"></category><category term="課程評分標準"></category></entry><entry><title>week12 足球機器人模擬</title><link href="./2024-Spring-w12-blog-tutorial.html" rel="alternate"></link><published>2024-05-16T20:00:00+08:00</published><updated>2024-06-20T23:14:49+08:00</updated><author><name>41123117</name></author><id>tag:None,2024-05-16:./2024-Spring-w12-blog-tutorial.html</id><summary type="html">&lt;p&gt;任務一:&lt;/p&gt;
+&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w13"></category><category term="課程評分標準"></category></entry><entry><title>week12 足球機器人模擬</title><link href="./2024-Spring-w12-41123117-blog-tutorial.html" rel="alternate"></link><published>2024-05-16T20:00:00+08:00</published><updated>2024-06-21T06:58:11+08:00</updated><author><name>41123117</name></author><id>tag:None,2024-05-16:./2024-Spring-w12-41123117-blog-tutorial.html</id><summary type="html">&lt;p&gt;任務一:&lt;/p&gt;
 &lt;p&gt;https://nfuedu-my.sharepoint.com/:f:/g/personal/41123111_nfu_edu_tw/EuSo65VZCXdBuBo8r_UuHoQBxcIrVMDLBY2hkap6bZuQ4Q?e=wRDlbp&lt;/p&gt;
 &lt;p&gt;任務二:&lt;/p&gt;
 &lt;p&gt;將分組倉儲設為評分網站子模組 g4 的子模組指令為:&lt;/p&gt;
@@ -1763,7 +1763,7 @@ doc["threejsblock"].bind("click", threejsblock.do)
 &lt;div id="brython_div2"&gt;&lt;/div&gt;
 &lt;!-- editor2 結束 --&gt;
 &lt;hr/&gt;&lt;p&gt;
-&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w12"></category><category term="足球機器人模擬"></category></entry><entry><title>week11 了解零組件轉檔相關知識</title><link href="./2024-Spring-w11-blog-tutorial.html" rel="alternate"></link><published>2024-05-09T20:00:00+08:00</published><updated>2024-06-20T23:14:37+08:00</updated><author><name>41123117</name></author><id>tag:None,2024-05-09:./2024-Spring-w11-blog-tutorial.html</id><summary type="html">&lt;p&gt;了解零組件轉檔相關知識&lt;/p&gt;
+&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w12"></category><category term="足球機器人模擬"></category></entry><entry><title>week11 了解零組件轉檔相關知識</title><link href="./2024-Spring-w11-41123117-blog-tutorial.html" rel="alternate"></link><published>2024-05-09T20:00:00+08:00</published><updated>2024-06-21T06:58:06+08:00</updated><author><name>41123117</name></author><id>tag:None,2024-05-09:./2024-Spring-w11-41123117-blog-tutorial.html</id><summary type="html">&lt;p&gt;了解零組件轉檔相關知識&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;了解零組件轉檔相關知識&lt;/p&gt;
 
 
@@ -2027,7 +2027,7 @@ doc["threejsblock"].bind("click", threejsblock.do)
 &lt;div id="brython_div2"&gt;&lt;/div&gt;
 &lt;!-- editor2 結束 --&gt;
 &lt;hr/&gt;&lt;p&gt;
-&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w11"></category><category term="了解零組件轉檔相關知識"></category></entry><entry><title>week10 鋼球平台零組件繪畫</title><link href="./2024-Spring-w10-blog-tutorial.html" rel="alternate"></link><published>2024-05-02T20:00:00+08:00</published><updated>2024-06-20T23:14:22+08:00</updated><author><name>41123117</name></author><id>tag:None,2024-05-02:./2024-Spring-w10-blog-tutorial.html</id><summary type="html">&lt;p&gt;鋼球平台零組件繪畫&lt;/p&gt;
+&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w11"></category><category term="了解零組件轉檔相關知識"></category></entry><entry><title>week10 鋼球平台零組件繪畫</title><link href="./2024-Spring-w10-41123117-blog-tutorial.html" rel="alternate"></link><published>2024-05-02T20:00:00+08:00</published><updated>2024-06-21T06:57:59+08:00</updated><author><name>41123117</name></author><id>tag:None,2024-05-02:./2024-Spring-w10-41123117-blog-tutorial.html</id><summary type="html">&lt;p&gt;鋼球平台零組件繪畫&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;鋼球平台零組件繪畫&lt;/p&gt;
 
 
@@ -2291,7 +2291,7 @@ doc["threejsblock"].bind("click", threejsblock.do)
 &lt;div id="brython_div2"&gt;&lt;/div&gt;
 &lt;!-- editor2 結束 --&gt;
 &lt;hr/&gt;&lt;p&gt;
-&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w10"></category><category term="鋼球平台零組件繪畫"></category></entry><entry><title>week9 評分</title><link href="./2024-Spring-w9-blog-tutorial.html" rel="alternate"></link><published>2024-04-25T20:00:00+08:00</published><updated>2024-06-14T05:05:49+08:00</updated><author><name>41123117</name></author><id>tag:None,2024-04-25:./2024-Spring-w9-blog-tutorial.html</id><summary type="html">&lt;p&gt;評分.&lt;/p&gt;
+&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w10"></category><category term="鋼球平台零組件繪畫"></category></entry><entry><title>week9 評分</title><link href="./2024-Spring-w9-41123117-blog-tutorial.html" rel="alternate"></link><published>2024-04-25T20:00:00+08:00</published><updated>2024-06-21T06:57:39+08:00</updated><author><name>41123117</name></author><id>tag:None,2024-04-25:./2024-Spring-w9-41123117-blog-tutorial.html</id><summary type="html">&lt;p&gt;評分.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;評分.&lt;/p&gt;
 
 
@@ -2555,7 +2555,7 @@ doc["threejsblock"].bind("click", threejsblock.do)
 &lt;div id="brython_div2"&gt;&lt;/div&gt;
 &lt;!-- editor2 結束 --&gt;
 &lt;hr/&gt;&lt;p&gt;
-&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w9"></category><category term="評分"></category></entry><entry><title>week8 跟chat gpt 對話</title><link href="./2024-Spring-w8-blog-tutorial.html" rel="alternate"></link><published>2024-04-18T20:00:00+08:00</published><updated>2024-06-14T05:05:49+08:00</updated><author><name>41123117</name></author><id>tag:None,2024-04-18:./2024-Spring-w8-blog-tutorial.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w9"></category><category term="評分"></category></entry><entry><title>week8 跟chat gpt 對話</title><link href="./2024-Spring-w8-41123117-blog-tutorial.html" rel="alternate"></link><published>2024-04-18T20:00:00+08:00</published><updated>2024-06-21T06:57:33+08:00</updated><author><name>41123117</name></author><id>tag:None,2024-04-18:./2024-Spring-w8-41123117-blog-tutorial.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h1&gt;內容管理系統&lt;/h1&gt;
 &lt;p&gt;使用者可以自行利用 &lt;a href="https://github.com/mdecycu/cmsimde_site"&gt;cmsimde_site&lt;/a&gt; 倉儲作為 Template, 建立自己的網站內容管理系統.&lt;/p&gt;
@@ -2817,7 +2817,7 @@ doc["threejsblock"].bind("click", threejsblock.do)
 &lt;div id="brython_div2"&gt;&lt;/div&gt;
 &lt;!-- editor2 結束 --&gt;
 &lt;hr/&gt;&lt;p&gt;
-&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w8"></category><category term="跟chat gpt 對話"></category></entry><entry><title>week6 更新小組子模組</title><link href="./2024-Spring-w6-blog-tutorial.html" rel="alternate"></link><published>2024-04-04T20:00:00+08:00</published><updated>2024-06-14T05:05:49+08:00</updated><author><name>41123117</name></author><id>tag:None,2024-04-04:./2024-Spring-w6-blog-tutorial.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w8"></category><category term="跟chat gpt 對話"></category></entry><entry><title>week6 更新小組子模組</title><link href="./2024-Spring-w6-41123117-blog-tutorial.html" rel="alternate"></link><published>2024-04-04T20:00:00+08:00</published><updated>2024-06-21T06:57:25+08:00</updated><author><name>41123117</name></author><id>tag:None,2024-04-04:./2024-Spring-w6-41123117-blog-tutorial.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h1&gt;內容管理系統&lt;/h1&gt;
 &lt;p&gt;使用者可以自行利用 &lt;a href="https://github.com/mdecycu/cmsimde_site"&gt;cmsimde_site&lt;/a&gt; 倉儲作為 Template, 建立自己的網站內容管理系統.&lt;/p&gt;
@@ -3079,7 +3079,7 @@ doc["threejsblock"].bind("click", threejsblock.do)
 &lt;div id="brython_div2"&gt;&lt;/div&gt;
 &lt;!-- editor2 結束 --&gt;
 &lt;hr/&gt;&lt;p&gt;
-&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w6"></category><category term="更新小組子模組"></category></entry><entry><title>week5 教學影片整理</title><link href="./2024-Spring-w5-blog-tutorial.html" rel="alternate"></link><published>2024-03-28T20:00:00+08:00</published><updated>2024-06-14T05:05:49+08:00</updated><author><name>41123117</name></author><id>tag:None,2024-03-28:./2024-Spring-w5-blog-tutorial.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w6"></category><category term="更新小組子模組"></category></entry><entry><title>week5 教學影片整理</title><link href="./2024-Spring-w5-41123117-blog-tutorial.html" rel="alternate"></link><published>2024-03-28T20:00:00+08:00</published><updated>2024-06-21T06:57:18+08:00</updated><author><name>41123117</name></author><id>tag:None,2024-03-28:./2024-Spring-w5-41123117-blog-tutorial.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h1&gt;內容管理系統&lt;/h1&gt;
 &lt;p&gt;使用者可以自行利用 &lt;a href="https://github.com/mdecycu/cmsimde_site"&gt;cmsimde_site&lt;/a&gt; 倉儲作為 Template, 建立自己的網站內容管理系統.&lt;/p&gt;
@@ -3341,7 +3341,7 @@ doc["threejsblock"].bind("click", threejsblock.do)
 &lt;div id="brython_div2"&gt;&lt;/div&gt;
 &lt;!-- editor2 結束 --&gt;
 &lt;hr/&gt;&lt;p&gt;
-&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w5"></category><category term="製作w5 work 教學影片整理"></category></entry><entry><title>week4 影片上字幕</title><link href="./2024-Spring-w4-blog-tutorial.html" rel="alternate"></link><published>2024-03-21T20:00:00+08:00</published><updated>2024-06-14T05:05:49+08:00</updated><author><name>41123117</name></author><id>tag:None,2024-03-21:./2024-Spring-w4-blog-tutorial.html</id><summary type="html">&lt;p&gt;影片檔案:https://nfuedu-my.sharepoint.com/:f:/g/personal/41123117_nfu_edu_tw/Eu8vQIGG4M1DuGz1Jw9wwDsBN2SRVHUzLLsE-Ed1CffYpg&lt;/p&gt;
+&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w5"></category><category term="製作w5 work 教學影片整理"></category></entry><entry><title>week4 影片上字幕</title><link href="./2024-Spring-w4-41123117-blog-tutorial.html" rel="alternate"></link><published>2024-03-21T20:00:00+08:00</published><updated>2024-06-21T06:57:13+08:00</updated><author><name>41123117</name></author><id>tag:None,2024-03-21:./2024-Spring-w4-41123117-blog-tutorial.html</id><summary type="html">&lt;p&gt;影片檔案:https://nfuedu-my.sharepoint.com/:f:/g/personal/41123117_nfu_edu_tw/Eu8vQIGG4M1DuGz1Jw9wwDsBN2SRVHUzLLsE-Ed1CffYpg&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;影片檔案:https://nfuedu-my.sharepoint.com/:f:/g/personal/41123117_nfu_edu_tw/Eu8vQIGG4M1DuGz1Jw9wwDsBN2SRVHUzLLsE-Ed1CffYpg&lt;/p&gt;
 
 
@@ -3605,7 +3605,7 @@ doc["threejsblock"].bind("click", threejsblock.do)
 &lt;div id="brython_div2"&gt;&lt;/div&gt;
 &lt;!-- editor2 結束 --&gt;
 &lt;hr/&gt;&lt;p&gt;
-&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w4"></category><category term="影片上字幕"></category></entry><entry><title>week3 中英文並列資料</title><link href="./2024-Spring-w3-blog-tutorial.html" rel="alternate"></link><published>2024-03-14T20:00:00+08:00</published><updated>2024-06-14T05:05:49+08:00</updated><author><name>41123117</name></author><id>tag:None,2024-03-14:./2024-Spring-w3-blog-tutorial.html</id><summary type="html">&lt;p&gt;中英文並列資料
+&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w4"></category><category term="影片上字幕"></category></entry><entry><title>week3 中英文並列資料</title><link href="./2024-Spring-w3-41123117-blog-tutorial.html" rel="alternate"></link><published>2024-03-14T20:00:00+08:00</published><updated>2024-06-21T06:57:05+08:00</updated><author><name>41123117</name></author><id>tag:None,2024-03-14:./2024-Spring-w3-41123117-blog-tutorial.html</id><summary type="html">&lt;p&gt;中英文並列資料
 https://nfuedu-my.sharepoint.com/personal/41123117_nfu_edu_tw/_layouts/15/onedrive.aspx?id=%2Fpersonal%2F41123117%5Fnfu%5Fedu%5Ftw%2FDocuments%2F41123117%2D%2Epdf&amp;amp;parent=%2Fpersonal%2F41123117%5Fnfu%5Fedu%5Ftw%2FDocuments&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;中英文並列資料
 https://nfuedu-my.sharepoint.com/personal/41123117_nfu_edu_tw/_layouts/15/onedrive.aspx?id=%2Fpersonal%2F41123117%5Fnfu%5Fedu%5Ftw%2FDocuments%2F41123117%2D%2Epdf&amp;amp;parent=%2Fpersonal%2F41123117%5Fnfu%5Fedu%5Ftw%2FDocuments&lt;/p&gt;
@@ -3871,7 +3871,7 @@ doc["threejsblock"].bind("click", threejsblock.do)
 &lt;div id="brython_div2"&gt;&lt;/div&gt;
 &lt;!-- editor2 結束 --&gt;
 &lt;hr/&gt;&lt;p&gt;
-&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w3"></category><category term="製作w3 work 中英文並列資料"></category></entry><entry><title>week2 分組</title><link href="./2024-Spring-w2-blog-tutorial.html" rel="alternate"></link><published>2024-03-08T20:00:00+08:00</published><updated>2024-06-14T05:05:49+08:00</updated><author><name>41123117</name></author><id>tag:None,2024-03-08:./2024-Spring-w2-blog-tutorial.html</id><summary type="html">&lt;p&gt;加入第四組.&lt;/p&gt;
+&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w3"></category><category term="製作w3 work 中英文並列資料"></category></entry><entry><title>week2 分組</title><link href="./2024-Spring-w2-41123117-blog-tutorial.html" rel="alternate"></link><published>2024-03-08T20:00:00+08:00</published><updated>2024-06-21T06:56:55+08:00</updated><author><name>41123117</name></author><id>tag:None,2024-03-08:./2024-Spring-w2-41123117-blog-tutorial.html</id><summary type="html">&lt;p&gt;加入第四組.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;加入第四組.&lt;/p&gt;
 
 
@@ -4135,7 +4135,7 @@ doc["threejsblock"].bind("click", threejsblock.do)
 &lt;div id="brython_div2"&gt;&lt;/div&gt;
 &lt;!-- editor2 結束 --&gt;
 &lt;hr/&gt;&lt;p&gt;
-&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w2"></category><category term="分組"></category></entry><entry><title>week1 網誌編寫</title><link href="./2024-Spring-w1-blog-tutorial.html" rel="alternate"></link><published>2024-02-29T20:00:00+08:00</published><updated>2024-06-14T05:05:49+08:00</updated><author><name>41123117</name></author><id>tag:None,2024-02-29:./2024-Spring-w1-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w2"></category><category term="分組"></category></entry><entry><title>week1 網誌編寫</title><link href="./2024-Spring-w1-41123117-blog-tutorial.html" rel="alternate"></link><published>2024-02-29T20:00:00+08:00</published><updated>2024-06-21T06:56:48+08:00</updated><author><name>41123117</name></author><id>tag:None,2024-02-29:./2024-Spring-w1-41123117-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
